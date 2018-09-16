@@ -1,0 +1,19 @@
+.footer {
+    position: fixed;
+    bottom: 0;
+    color: white;
+    width: 100%;
+}
+.container-app {
+    padding-top: 100px;
+}
+.row-padding {
+    padding-bottom: 20px;
+}
+.text-format {
+    word-wrap: break-word;
+}
+.textarea-format {
+    width:100%;
+    height:400px;
+}
